@@ -40,12 +40,8 @@ Genvoice is a privacy-first, client-side invoice management app for freelancers 
 
 - React 19
 - TypeScript
-- Vite
 - Tailwind CSS
-- Radix UI
-- Lucide Icons
-- Zod, react-hook-form
-- Sonner (toasts)
+
 
 ## 📦 Project Structure
 
@@ -58,10 +54,3 @@ Genvoice is a privacy-first, client-side invoice management app for freelancers 
 
 Genvoice is 100% client-side. Your data never leaves your device.
 
-## 📄 License
-
-MIT
-
----
-
-Made with ❤️ for privacy and productivity.
